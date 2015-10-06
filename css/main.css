@@ -1,0 +1,14 @@
+.container {
+  position: relative; }
+
+h2 {
+  color: white;
+  text-align: center;
+  font-size: 50px; }
+
+.clock {
+  position: absolute;
+  color: hotpink;
+  font-size: 117px;
+  top: 241px;
+  left: 317px; }
